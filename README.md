@@ -1,4 +1,0 @@
-Rotinas
-=======
-
-Rotinas em construção
